@@ -43,6 +43,7 @@ After starting the program, it displays available commands and waits for user in
 make
 ./sop-backup
 ```
+---
 
 ## Implementation Details
 
