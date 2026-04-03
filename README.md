@@ -43,3 +43,11 @@ After starting the program, it displays available commands and waits for user in
 make
 ./sop-backup
 ```
+
+## Implementation Details
+
+- **Language:** C (POSIX)  
+- **File monitoring:** `inotify`  
+- **Concurrency:** multiple processes  
+- **Signal handling:** `SIGINT`, `SIGTERM`  
+- **Symbolic links:** supported
