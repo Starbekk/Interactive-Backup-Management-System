@@ -1,7 +1,7 @@
 # Interactive Backup Management System
 
 This project was developed as part of the *Operating Systems 1* course.
-It is an interactive application for managing directory backups. The program allows users to create backups, monitor changes in real time, and synchronize multiple target directories concurrently.
+It is an interactive application for managing directory backups. The program allows users to create backups, monitor changes in real time, and synchronize multiple target directories concurrently using separate processes.
 
 ---
 
