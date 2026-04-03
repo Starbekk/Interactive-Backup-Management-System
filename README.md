@@ -5,7 +5,7 @@ It is an interactive application for managing directory backups. The program all
 
 ---
 
-##Features
+## Features
 
 - Create backups of directories to one or multiple target locations  
 - Monitor source directory using `inotify`
