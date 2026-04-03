@@ -23,18 +23,18 @@ After starting the program, it displays available commands and waits for user in
 ### Commands
 
 #### Add backup
-add <source path> <target path>
+```add <source path> <target path>```
 
 #### Stop backup
-end <source path> <target paths>
+```end <source path> <target paths>```
 
 #### List active backups
-list
+```list```
 
 #### Restore backup
-restore <source path> <target path>
+```restore <source path> <target path>```
 
 ---
 ## Build & Run
-make
-./sop-backup
+```make```
+```./sop-backup```
