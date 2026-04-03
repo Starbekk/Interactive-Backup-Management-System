@@ -21,8 +21,8 @@ void sig_term_handler(int sig) { end_program = 1; }
 
 int main(int argc, char *argv[])
 {
-    char linia[MAX_LEN_LINE];  // W tej tablicy przechowuję linię komendy od użytkownika
-    state_of_copies state;     // W ten sposób przechowuję listę kopii
+    char linia[MAX_LEN_LINE];
+    state_of_copies state;
     state.count = 0;
     // Obsługa sygnałów
     sethandler(sig_term_handler, SIGTERM);
