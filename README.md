@@ -34,6 +34,9 @@ After starting the program, it displays available commands and waits for user in
 #### Restore backup
 ```restore <source path> <target path>```
 
+#### Exit program
+```exit```
+
 ---
 ## Build & Run
 ```bash
