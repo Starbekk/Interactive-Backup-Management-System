@@ -36,5 +36,5 @@ After starting the program, it displays available commands and waits for user in
 
 ---
 ## Build & Run
-```make```
+```make```  
 ```./sop-backup```
