@@ -38,4 +38,5 @@ After starting the program, it displays available commands and waits for user in
 ## Build & Run
 ```bash
 make
-./sop-backup```
+./sop-backup
+```
