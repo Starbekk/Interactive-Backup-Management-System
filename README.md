@@ -47,3 +47,9 @@ make
 - **Concurrency:** multiple processes  
 - **Signal handling:** `SIGINT`, `SIGTERM`  
 - **Symbolic links:** supported
+
+---
+
+## Requirements
+- Linux system
+- POSIX-compatible environment
