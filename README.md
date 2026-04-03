@@ -20,8 +20,7 @@ It is an interactive application for managing directory backups. The program all
 ## Usage
 After starting the program, it displays available commands and waits for user input.
 
----
-### Commands
+## Commands
 
 #### Add backup
 ```add <source path> <target path>```
