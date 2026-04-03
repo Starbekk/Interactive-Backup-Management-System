@@ -22,20 +22,15 @@ After starting the program, it displays available commands and waits for user in
 
 ## Commands
 
-#### Add backup
-```add <source path> <target path>```
+#### Add backup: ```add <source path> <target path> [target_path2 ...]```
 
-#### Stop backup
-```end <source path> <target paths>```
+#### Stop backup: ```end <source path> <target paths>```
 
-#### List active backups
-```list```
+#### List active backups: ```list```
 
-#### Restore backup
-```restore <source path> <target path>```
+#### Restore backup: ```restore <source path> <target path>```
 
-#### Exit program
-```exit```
+#### Exit program: ```exit```
 
 ---
 ## Build & Run
